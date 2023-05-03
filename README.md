@@ -1,19 +1,18 @@
-# Digitron Synthesizer
-
 ### Digitron Synthesizer
 
-![digitron icon](images/digitron_icon.svg)
+<img src="images/digitron_synhesizer_icon.svg" alt="icon" width="120" heigh=120>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.geka000.digitron)
 
 ### Digitron Basic
 
-![digitron icon](images/digitron_basic_icon.svg)
+<img src="images/digitron_basic_icon.svg" alt="icon" width=120 heigh=120>
 
 [Google Play](https://play.google.com/store/apps/details?id=com.moodflight.digitron.basic)
 <!--- [Appstore]() --->
 
 ## Support
 
-email: <moodflight@gmail.com>
+email: <mailto://moodflight@gmail.com>
+
 discord: <https://discord.gg/MqmQSyvQ>
