@@ -13,6 +13,6 @@
 
 ## Support
 
-email: <mailto://moodflight@gmail.com>
+email: <mailto:moodflight@gmail.com>
 
 discord: <https://discord.gg/MqmQSyvQ>
